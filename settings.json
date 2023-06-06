@@ -1,0 +1,12 @@
+{
+    "[php]":{
+        "editor.tabSize":2 //espacios
+    },
+    "[html]":{
+        "editor.tabSize":2 //espacios
+    },
+    "[javascript]":{
+        "editor.tabSize":2 //espacios
+    },
+    "files.insertFinalNewline":true //cuando guardamos con ctrl + s , no se añada una linea en blanco al final
+}
